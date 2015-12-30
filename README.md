@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+At first I encountered some challenge with the iOS simulator had to run it on iPhone5, iPhone6S was not running at all. 
 
 ## License
 
